@@ -2,10 +2,11 @@
 
 ##Pseudo Code
 
-```
-Overlaying an image on top of an existing image
 
-###Load image from directory and display image to screen
+###Overlaying an image on top of an existing image
+```
+Load image from directory and display image to screen
+
 Initialise image to overlay
 Initialise targetX 
 Initialise targetY
@@ -13,9 +14,9 @@ Initialise targetY
      Then overwrite them to original image starting at targetX and targetY
   END DO
 Display image
-
+```
 ###Enlarging a section of an image
-
+```
 Make picture from file.
 Initialise soruceX value
 Initalise soruceY value
