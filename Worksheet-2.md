@@ -31,9 +31,9 @@ Display image
 ```
 
 
-##Flow Charts
-###Flow Chart 1
+##Flowcharts
+###Flowchart 1
 ![alt text](https://github.com/Alli1223/comp110-worksheets/blob/master/design_function_1.png?raw=true "Flow Chart 1")
-###Flow Chart 2
+###Flowchart 2
 ![alt text](https://github.com/Alli1223/comp110-worksheets/blob/master/design_function_2.png?raw=true "Flow Chart 1")
 
