@@ -9,18 +9,20 @@ I dowloaded LaTeX on my home computer and started playing with the features and 
 ##Week 3
 I spent week 3 doing a bit of research for the comp 130 essay, looking at library resources, as well as getting general knowlege about the console i was going to work on from general online sources.
 I also started writing notes about the sega master system for the group presentation.
-We started learning about python and JES,
+We started learning about python and JES, which i seem to be getting the hang of okay.
 
 
 ##Week 4
-Presented the group presentation
+put together all of our notes for the group presentation
 Went through in more detail about writing academic essays
-Manipulating pictures using loops
-More detail about Python and JES
+Manipulating pictures using loops was enjoyable, a lot of the code i didnt completely understand though.
+
 
 ##Week 5
 Learnt about Agile development
-Peer reviews of essays
-Removing red-eye tasks
+I noted a lot of room for improvement in my essay doing the peer reviews, found it very helpful.
+I got the hand of the Removing red-eye tasks, i thought that wasnt too hard.
 
-etc.
+##Reading Week
+Met up with Thomas Sun,Mon,Tues,Wed for a few hours to work on the Flowcharts and Pseudo code.
+Then met up on Wed, Thu and Fri to start working on the pair programming tasks.. found we spent a bit too much time on the flow charts and pseudo code when we should have been working on the pair programming assignment.
