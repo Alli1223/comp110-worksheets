@@ -13,16 +13,21 @@ We started learning about python and JES, which i seem to be getting the hang of
 
 
 ##Week 4
-put together all of our notes for the group presentation
-Went through in more detail about writing academic essays
+We put together all of our notes for the group presentation, which Samantha presented to the class.
+We also went through in more detail about writing academic essays, which is all stuff i kinda knew about, but it was nice to be refereshed on.
 Manipulating pictures using loops was enjoyable, a lot of the code i didnt completely understand though.
 
 
 ##Week 5
 Learnt about Agile development
-I noted a lot of room for improvement in my essay doing the peer reviews, found it very helpful.
-I got the hand of the Removing red-eye tasks, i thought that wasnt too hard.
+I noted a lot of room for improvement in my essay doing the peer reviews, found it very helpful to get that feedback before the essay submission.
+I got the hand of the Removing red-eye tasks, i thought that was fairly easy to get to grips with.
 
 ##Reading Week
 Met up with Thomas Sun,Mon,Tues,Wed for a few hours to work on the Flowcharts and Pseudo code.
 Then met up on Wed, Thu and Fri to start working on the pair programming tasks.. found we spent a bit too much time on the flow charts and pseudo code when we should have been working on the pair programming assignment.
+
+##Week 7
+Spent the beginning of week 7 reviewing others code for the tinkering graphics project and improving my own code from peer feedback. Then spent the friday and weekend looking for research about the procedural generation articles for the architecture essay.
+
+##Week 8
