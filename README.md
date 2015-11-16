@@ -31,3 +31,6 @@ Then met up on Wed, Thu and Fri to start working on the pair programming tasks..
 Spent the beginning of week 7 reviewing others code for the tinkering graphics project and improving my own code from peer feedback. Then spent the friday and weekend looking for research about the procedural generation articles for the architecture essay.
 
 ##Week 8
+Trello
+Learning SQL
+For the creative design task, I decided to make a game of asteroids with the theme of Ice and Creepy.
