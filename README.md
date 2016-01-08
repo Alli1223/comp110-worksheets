@@ -2,7 +2,6 @@
 A template for the COMP110 worksheets and the weekly reflective reports.
 
 ##Week 2
-Content here
 This week I worked on the SpaceChem assignment for Comp110, I enjoyed playing the game and found some of the levels fairly challenging. I spent a lot of time working on the wrong type of levels though.
 I dowloaded LaTeX on my home computer and started playing with the features and getting a feel for the software. I really like using the software as it makes referencing and general formatting a lot easier and more professional than in programs such as word.
 
@@ -13,14 +12,17 @@ We started learning about python with JES, and i think i uderstood most of what 
 
 
 ##Week 4
-Presented the group presentation
+Presented the group presentation.
 Went through in more detail about writing academic essays, most of which I kinda knew already, but it was helpful to have a referesher! 
-We sent into more detail about Python and manipulating pictures using loops, classes etc.. 
+We went into more detail about Python and manipulating pictures using loops, classes etc.. 
+I found some of the algorithms fairly hard to comprehend, I feel like i need to spend more time analysing what each bit of the code does and all the functions in JES.
+After spending a bit of time playing around with what each of the individual JES functions, i have slightly improved my ability to read large blocks of existing code. 
+This knowledge is important to me as a practitioner because i am not yet confident about reading and understanding large blocks of code.
+I will now need to continue to write my own code and try to memorise the syntax for python and JES.
 
 ##Week 5
-Learnt about Agile development and scrums 
-Peer reviews of essays was very helpful, it gave me a clear idea of what needs improving and what I need to do to improve it.
-Removing red-eye tasks
+For me the most useful experience was the peer review of my essay, this gave me a clear idea of what needs improving. Having read the peer reviews I now feel that i know what to work on to improve the quality of the essay.
+This means that my understanding will be useful to me as a learner because I am not yet certain about how to structure my essay in the proper manner. I will now need to make the aproprite changes to my essay based on the peer review feedback.
 
 ##Week R
 Spent a bit of reading week focusing on my essay, and making changes from the peer review.
@@ -54,18 +56,21 @@ I also made a little more progress on the COMP130 kivy app, working on the serve
 Continued working in pycharm to make the kivy app, it's taking a while to understand how OOP works, and how all the code links together, as well as the kivy languange, but that is easier to understand.
 Created the database on the server and managed to get my kivy app to print content from the database to a label, which was very satisfying when i got it to work.
 
-##Christmas Break Week 1
-implementing a menu screen and a game screen. I also spent a while trying to get a ball moving around the screen, with no luck.
+##x1
+Implemented a menu screen and a game screen. I also spent a while trying to get a ball moving around the screen, with no luck.
 
-##Chrstmas Break Week 2
+##x2
 Worked on the tinkering audio, implementing the first 4 algorithms, but when i got to trying to parse a token into the audio, it took me far longer to try and implement.
 
-##Christmas Break Week 3
-Made more progress on the Kivy app, the youtube tutorials helped a lot, and manged to move a rectangle around the screen on touch press, although there were still a few bus that needed to be fixed.
+##x3
+Made more progress on the Kivy app, the youtube tutorials helped a lot, and manged to move a rectangle around the screen on touch press, although there are still a few bus that needed to be fixed.
 
-##Chrsitmas Break Week 4
-Finally implemented the parsing audio algorithm into the tinkering audio project, this took me a long time and quite a few iterations to get it working, there is still a few bugs with it though. All the other projects, such as the tinkeing graphics and the kivy app are coming along pretty well.
+##x4
+Finally implemented the parsing audio algorithm into the tinkering audio project, this took me a long time and quite a few iterations to get it working, there is still a few bugs with it though. 
+All the other projects, such as the tinkeing graphics and the kivy app are coming along pretty well.
 
 ##Week 11
 I did the code review as soon as we got back from holidays, it was refresing to see how much progress everyone else had made on the project, and helpful to see how other aproached the same problems.
 I realsed that some of the images used in my tinkering graphics project may be copyrighted, so i'll have to go through them, and switch the images out for other non-copyrighted images at somepoint soon.
+
+
