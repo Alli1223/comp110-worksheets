@@ -11,7 +11,6 @@ I spent week 3 doing a bit of research for the comp 130 essay, looking at librar
 I also started writing notes about the sega master system for the group presentation.
 We started learning about python with JES, and i think i uderstood most of what was being said in the lectures, but I think i just need to play around with it a bit more to fully understand.
 
-
 ##Week 4
 Presented the group presentation.
 Went through in more detail about writing academic essays, most of which I kinda knew already, but it was helpful to have a referesher. 
@@ -54,7 +53,7 @@ Got feedback for the COMP130 essay, and as I already knew, I needed to improve m
 I still need to do more work for my tinkering graphics project to try and get it mostly done for before we breakup for christmas.
 
 ##Week 9
-Made a litle bit more progress on the tinkering audio project.
+In week 9 I had made a litle bit more progress on the tinkering audio project.
 Started on the COMP110 essay about procedural content generation for a 2d platformer, and chose 3 of the 5 PCG references to base my essay on. 
 Initailly i found the essays quite hard to wrap my head around, however making key bullet points about the way in which each paper implemented PCG helped me a lot to get my head around them.
 
@@ -87,4 +86,5 @@ Started looking into C++ and made a hangman game in visual studio. I was anticip
 However when i did have to stay behind in the lecture to fix some bugs with my hangman game, but managed to get it working and understand most of the things that was taught in the lecture.
 
 ##Week 12
-Had a general support lecture, and made a bit more progress in my kivy app, as I managed to rotate the player to face direction of travel, I'm generaly feeling a lot more convident with kivy now.
+Had a general support lecture, and made a bit more progress in my kivy app, as I managed to rotate the player to face direction of travel, I'm generaly feeling a lot more convident with kivy now. 
+Also spent week 12 writing the reflective report, and had a lecture on how to write our refective report from one of the falmouth academic skills team.
