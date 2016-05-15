@@ -14,4 +14,4 @@ Scores:
 
 ##Entity-Relationship Diagram:
 
-
+![](https://raw.githubusercontent.com/Alli1223/comp110-worksheets/master/Worksheet%203/Entity%20Relationship.png "Entity Relationship")
