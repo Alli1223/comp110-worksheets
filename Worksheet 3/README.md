@@ -12,4 +12,6 @@ Scores:
 ![](https://raw.githubusercontent.com/Alli1223/comp110-worksheets/master/Worksheet%203/scores.png "Scores")
 
 
+##Entity-Relationship Diagram:
+
 
