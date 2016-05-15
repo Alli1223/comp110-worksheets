@@ -15,3 +15,31 @@ Scores:
 ##Entity-Relationship Diagram:
 
 ![](https://raw.githubusercontent.com/Alli1223/comp110-worksheets/master/Worksheet%203/Entity%20Relationship.png "Entity Relationship")
+
+___
+
+##Pseudo Code for client-server communication
+
+###Client Side:
+```
+Connect to database
+
+Send Highscore to server
+
+Retrieve Highscores
+
+Terminate connection
+```
+###Server Side:
+
+```
+Retrieve Highscores from database
+
+IF userID is not in database ADD them
+    IF highscore is greater than previous highscore
+        Update highscore
+    END IF
+END IF
+
+Send Highscores to client
+```
