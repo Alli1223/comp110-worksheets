@@ -1,5 +1,7 @@
 # comp110-worksheets
 A template for the COMP110 worksheets and the weekly reflective reports.
+##Week 1
+N/A
 
 ##Week 2
 This week I worked on the SpaceChem assignment for Comp110, I enjoyed playing the game and found some of the levels fairly challenging. I spent a lot of time working on the wrong type of levels though. I can already kind of see how this is kind of problem solving will relate to coding later on in the course.
